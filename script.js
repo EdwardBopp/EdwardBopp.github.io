@@ -158,7 +158,6 @@ async function initGame(){
       }, 2000);
     }
   });
-  console.log(missingSnippetText);
   missingSnippetText.classList.add("is-visible");
 }
 
