@@ -52,3 +52,5 @@ const savePictureBtn = document.getElementById("btnSavePicture");
 
 /* This element is used as a placeholder in the puzzle for the empty snippet */
 const emptySnippet = document.createElement("canvas");
+
+const missingSnippetText = document.getElementById("missingSnippetText");
