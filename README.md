@@ -1,1 +1,5 @@
-# EdwardBopp.github.io
+## HTML5 Website
+This is a sliding puzzle game built using HTML5, CSS3, and JavaScript. The game features a grid of tiles/snippets that can be moved around to solve the puzzle. The objective is to arrange the tiles in the correct order by sliding them into the empty space. Use the help page for instructions on how to play the game. The game is designed to be responsive and can be played on both desktop and mobile devices. Enjoy playing!
+
+# How to access
+The game uses the HTML camera API which requires a secure context (HTTPS) to function properly. To access the game visit https://edwardbopp.github.io/ and click on the "Play Game" button. If you are using a local server, make sure to serve the files over HTTPS to avoid any issues with the camera API. This game cannot be started by opening the HTML file directly in the browser due to security restrictions on accessing the camera. Please ensure you are accessing the game through a secure connection for the best experience.
